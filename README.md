@@ -1,3 +1,18 @@
+## Fork info
+
+This is the last supported version of Draw.io with Visio (VSDX) support.
+
+As there's no where else I could find hosting this easily online, I have forked Draw.io at this version.
+
+This means you can browse to https://mattie47.github.io/drawio/src/main/webapp/ and then export your `drawio` diagram to Visio again 🙌
+
+**Note:** This is purely a fork of draw.io. I won't make any changes, updates, or provide any support.
+
+**Instead of running via github pages in the browser, you can also download the last supported desktop version yourself via https://github.com/jgraph/drawio-desktop/releases/tag/v26.0.16**
+
+-----------------
+
+
 About
 -----
 draw.io, this project, is a configurable diagramming/whiteboarding visualization application. draw.io is jointly owned and developed by JGraph Ltd and draw.io AG.
